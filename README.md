@@ -1,5 +1,6 @@
 <h1 align="center"> 👋 Hi I'm Israel</h1>
 <h3 align="center">A Senior at CSULB majoring in Computer Science with a focus on web development. I am driven by my passion for creating responsive and visually appealing websites that provide users with an intuitive and seamless experience.</h3>
+<br>
 
 - 🎓 &nbsp; Studying Computer Science at California State University, Long Beach 
 
