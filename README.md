@@ -1,16 +1,17 @@
 <h1 align="center"> 👋 Hi I'm Israel</h1>
-<h3 align="center">A Senior at CSULB majoring in Computer Science with a focus on web development. I am driven by my passion for creating responsive and visually appealing websites that provide users with an intuitive and seamless experience.</h3>
+<h3 align="center">I went to CSULB for Computer Science and I am focusing on Web Development. I am a front end engineer currently working on Detail Aide an all-in-one software solution for car detailers.
+</h3>
 <br>
 
-- 🎓 &nbsp; Studying Computer Science at California State University, Long Beach 
+- 🎓 &nbsp; Studied Computer Science at California State University, Long Beach 
 
-- 🌱 I’m currently learning **Next.js 13, Typescript**
+- 🌱 I’m currently learning **Supabase, Typescript**
 
-- 👨‍💻 [Check out my portfolio.](https://israelhhh.vercel.app/)
+- 👨‍💻 [Check out my portfolio.](https://israelhernandez.dev/)
 
 - 📫 How to reach me **israelhhh2@gmail.com**
 
-- 📄 Check out my resume [my resume](https://drive.google.com/file/d/1qYGb0FJ20YOPsfP1iNSVs8WNy-uXgn7F/view?usp=sharing)
+- 📄 Check out my resume [my resume](https://docs.google.com/document/d/1R39qVfvDL_CZpkKnxhR5A31Sukcfi3aRDX7Y_3mOGJE/edit?usp=drive_link)
 
 <br>
 
