@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi I'm Israel</h1>
-<h3 align="center">I went to CSULB for Computer Science and I am focusing on Web Development. I am a front end engineer currently working on Detail Aide an all-in-one software solution for car detailers.
+<h3 align="center">I studied Computer Science at CSULB and I am focusing on Web Development. I am a front end engineer currently working on Light Work a job tracking application. 
 </h3>
 <br>
 
